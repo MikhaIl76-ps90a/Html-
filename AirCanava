@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>AirCanava 1стр</title>
+    <link href="styles/style.css" rel="stylesheet" type="text/css" />
+ html {
+   background-color: #4340FC;
+ }
+   </head>
+  <body>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+     <h1>О нас </h1>
+     <h3> Краткая информация </h3>
+     <p>AirCanava - молодая авиакомпания, которая уже успела прославиться в области экономичных пассажироперевозок.
+        У нашей авиакомпании самые низкие цены на авиабилеты, при этом качество предоставляемых услуг не уступает конкурентам.
+        С нашей авиакомпанией вы сможете перемещаться в любую точку мира как к себе на дачу.
+        Для наших клиентов всегда доступна служба поддержки по номеру 8 888 888 88 88 </p>
+     <h3>Наш авиапарк</h3>
+     <ul>
+     <li><a href="https://ru.wikipedia.org/wiki/Boeing_767">Боинг 767</a></li>
+     <li><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BB-62">Ил 62</a></li>
+     <li><a href="https://ru.wikipedia.org/wiki/Douglas_DC-8">Douglas DC-8</a></li>
+     </ul>
+    <img src="https://commons.wikimedia.org/w/index.php?curid=83830397" alt="Моё тестовое изображение" />
+  </body>
+</html>
